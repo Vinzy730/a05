@@ -1,1 +1,1 @@
-print("Hi, welcome to COMP290!")
+print("BANANANANANANANANNANANANANNA *in a minion scream*")
